@@ -1,0 +1,10 @@
+http:
+ port: "8081"
+ path: "secureproperties-test"
+db:
+  host: "localhost"
+  port: "1521"
+  user: "system"
+  password: "![aqgWTQCcIGk6IBMoNTzA5w==]"
+ 
+
